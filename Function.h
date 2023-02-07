@@ -1,1 +1,2 @@
-Header file for Function
+#include "Function.cpp"
+void Function();

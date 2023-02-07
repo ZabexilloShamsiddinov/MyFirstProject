@@ -1,10 +1,7 @@
-#include <iostream>
-using namespace std;
+#include "Function.h"
 
 int main ()
 {
-	cout << "Hello World!" << endl;
-	cout << "Second line" << endl;
-	cout << "Third line" << endl;
+	Function();
 	return0;
 }
