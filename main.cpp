@@ -1,7 +1,7 @@
-#include "Function.h"
+#include <iostream>
 
 int main ()
 {
-	Function();
-	return0;
+	std::cout << "hello world!" << std::endl;
+	return 0;
 }
